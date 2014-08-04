@@ -5,3 +5,6 @@ Git tracks changes
 Creating a new branch is quick.
 Creatubg a bew branch us quick AND simple.
 Add a new line on dev branch.
+
+
+Implementing a new feature on dev branch...
