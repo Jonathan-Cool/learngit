@@ -3,5 +3,5 @@ Git is free software distributeed under the GPL
 Git has a mutable index called stage
 Git tracks changes
 Creating a new branch is quick.
-Creating a new branch is quick & simple -- Merged
-Creatubg a bew branch us quick AND simple. -- Modified on dev branch.
+Creatubg a bew branch us quick AND simple.
+Add a new line on dev branch.
